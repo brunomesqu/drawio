@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:45:23.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="oAL61KxHZ1FH-y9srI-k" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T04:46:17.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="KKNMzuCF-p3R5Zhfwzyj" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5425" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -259,11 +259,11 @@
           </mxCell>
         </UserObject>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-119" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1780" y="950" width="140" height="70" as="geometry" />
+          <mxGeometry x="550" y="1053" width="140" height="70" as="geometry" />
         </mxCell>
         <UserObject label="Unit Movement" lucidchartObjectId="nDcRBjl5U1kZ" id="e0bECrX3CSkzmX3JzYQU-120">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.5;fontFamily=Liberation Mono;fontColor=#333333;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1760" y="962" width="180" height="48" as="geometry" />
+            <mxGeometry x="530" y="1065" width="180" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-121" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
