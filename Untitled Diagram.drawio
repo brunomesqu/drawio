@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:26:46.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="SYRDVldvXt8UvKXSzwjw" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T04:32:41.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="uL5m3FRJE4a56ugYw3Ws" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5425" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -202,6 +202,9 @@
             <mxGeometry width="180" height="48" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-116" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;lucida console&amp;#34; ; font-size: 17px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Unit stats&lt;br&gt;Unit effects&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Lucida Console;" vertex="1" parent="e0bECrX3CSkzmX3JzYQU-85">
+          <mxGeometry x="60" y="40" width="135" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-86" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="680" width="340" height="160" as="geometry" />
         </mxCell>
