@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:32:41.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="uL5m3FRJE4a56ugYw3Ws" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T04:37:03.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="vVJKigcKhxtvNeG0wx-n" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5425" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         <mxCell id="e0bECrX3CSkzmX3JzYQU-109" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;lucida console&amp;#34; ; font-size: 17px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Uses ID to get card info&lt;br&gt;Puts info in card object&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Lucida Console;" vertex="1" parent="e0bECrX3CSkzmX3JzYQU-76">
           <mxGeometry x="55" y="198" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e0bECrX3CSkzmX3JzYQU-85" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-85" value="" style="group;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="1090" width="370" height="160" as="geometry" />
         </mxCell>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-64" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="e0bECrX3CSkzmX3JzYQU-85">
@@ -202,7 +202,7 @@
             <mxGeometry width="180" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="e0bECrX3CSkzmX3JzYQU-116" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;lucida console&amp;#34; ; font-size: 17px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Unit stats&lt;br&gt;Unit effects&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Lucida Console;" vertex="1" parent="e0bECrX3CSkzmX3JzYQU-85">
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-116" value="&lt;span style=&quot;font-family: &amp;#34;lucida console&amp;#34; ; font-size: 17px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;Unit stats&lt;br&gt;Unit effects&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Lucida Console;" vertex="1" parent="e0bECrX3CSkzmX3JzYQU-85">
           <mxGeometry x="60" y="40" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-86" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -265,6 +265,33 @@
         </UserObject>
         <mxCell id="e0bECrX3CSkzmX3JzYQU-115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e0bECrX3CSkzmX3JzYQU-80" target="e0bECrX3CSkzmX3JzYQU-62">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-117" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1800" y="850" width="100" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="Draws" lucidchartObjectId="nDcRBjl5U1kZ" id="e0bECrX3CSkzmX3JzYQU-118">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.5;fontFamily=Liberation Mono;fontColor=#333333;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1800" y="862" width="90" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-119" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1780" y="950" width="140" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="Unit Movement" lucidchartObjectId="nDcRBjl5U1kZ" id="e0bECrX3CSkzmX3JzYQU-120">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.5;fontFamily=Liberation Mono;fontColor=#333333;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1760" y="962" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-121" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="1053" width="200" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="Creature/Spell switch" lucidchartObjectId="nDcRBjl5U1kZ" id="e0bECrX3CSkzmX3JzYQU-122">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.5;fontFamily=Liberation Mono;fontColor=#333333;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1760" y="1065" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="e0bECrX3CSkzmX3JzYQU-123" value="&lt;span style=&quot;font-family: &amp;#34;lucida console&amp;#34; ; font-size: 17px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;Board State&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="958" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
